@@ -79,5 +79,5 @@ Here's a list of the ones I have (in reverse-chronological order, with the date 
 - [PowerApps](https://www.credly.com/badges/3f3586e4-82bf-4ec4-a1f3-4ca8a695a6c2/linked_in_profile) (Feb 2025) (Tenaris Citizen Developer - Tenaris University)
 
 ## Contacts
-- LinkedIn: [@yohari-hernandez-0b178268](https://linkedin.com/in/yohari-hernandez-0b178268)
+- LinkedIn: [@yoharihernandez](https://linkedin.com/in/yohari-hernandez-0b178268)
 - Email: yohari.hernandez@gmail.com
