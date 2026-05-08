@@ -19,6 +19,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Statistical Analysis COVID-19](#statistical-analysis-covid-19)
   - [Exploring Bonds Stocks Portfolios](#exploring-bonds-stocks-portfolios)
   - [NFTs Analysis](#nfts-analysis)
+- [Work Projects](#work-projects)
+  - [PowerApps Workflow Automation for Supply Chain Data Reporting](#powerapps-workflow-automation-for-supply-chain-data-reporting)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
@@ -42,6 +44,30 @@ Exploration and analysis of Non-Fungible Tokens (NFTs).
 - **Repository:** [NFTs](https://github.com/yohernan/NFTs)
 - **Created:** January 27, 2023
 - **Description:** NFTs analysis and research
+
+## Work Projects
+
+### PowerApps Workflow Automation for Supply Chain Data Reporting
+
+**Tools & Technologies:** PowerApps, Power Automate, SharePoint List, Excel Automation, SQL concepts
+
+**Project Overview:**
+Designed and deployed a comprehensive PowerApps application to streamline communication and data collection between Commercial and Supply Chain teams, replacing legacy manual email-based processes with an automated, structured digital workflow.
+
+**Key Achievements:**
+
+- **Workflow Automation** - Built automated workflows using Power Automate to capture user inputs, validate data in real-time, and automatically update a centralized SharePoint List used for downstream reporting and analysis
+  
+- **Process Efficiency** - Replaced manual email-based processes with a structured digital workflow, reducing reporting time by **45%** and eliminating bottlenecks in cross-team communication
+
+- **Data Quality & Accuracy** - Enhanced data visibility by creating standardized fields, dropdown controls, and embedded logic rules that ensured consistent data entry and improved data accuracy across teams
+
+- **Reporting & Analytics** - Integrated Excel automation to generate real-time summaries and KPI reports, enabling faster decision-making for planning and scheduling teams
+
+- **User Experience** - Designed an intuitive PowerApps interface that required minimal training, with built-in validation rules that guided users toward accurate data entry
+
+**Business Impact:**
+This automation solution improved cross-functional collaboration, reduced manual data entry errors, and provided leadership with timely KPI insights for operational decision-making.
 
 ## Education
 University of Houston, Downtown: 
